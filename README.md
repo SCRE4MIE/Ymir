@@ -1,6 +1,6 @@
 # DOKUMENTACJA BOTA YMIR 
 
-###Komendy Podstawowe: \n
+### Komendy Podstawowe: 
 %hi | wysyła informacje o bocie
 %poke @user | wysyła wiadomość poke do wzkazanego użytkownika
 %say text | tworzy wpisany text w formie ramki
