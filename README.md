@@ -1,7 +1,7 @@
 # Dokumentacja Discord Bota Ymir
 ### ***SCREAMIE#9946***
 
-#### Ymir_help  <-- pokazuje aktualny prefix ustawiony na serwerze
+#### | Ymir_help | pokazuje aktualny prefix na serwerze |
 
 #### Komendy podstawowe:  
 
