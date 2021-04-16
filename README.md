@@ -2,6 +2,7 @@
 ### ***SCREAMIE#9946***
 
 | Ymir_help | pokazuje aktualny prefix na serwerze |
+| :--- | :--- |
 
 #### Komendy podstawowe:  
 
