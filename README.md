@@ -68,6 +68,8 @@ Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłe
 | **%usunkontrole** | | usuwa wszystkiego kontrole z tego kanału | administrator |
 | **%infokontrola** | | wyświetla informacje o ustawieniach kontroli | administrator |
 | **%kontrola** *permisja* | | ustawia kontrole na dane permisje | administrator |  
+
+
 ***Permisje***  
 | Permisja | Opis | 
 | :--- | :--- |
