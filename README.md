@@ -11,3 +11,6 @@
 | **%hi** | | wysyła informacje o bocie | |
 | **%poke** *@user* | | wysyła wiadomość poke do wzkazanego użytkownika | |
 | **%say** *text* | | tworzy wpisany text w formie ramki | |
+| **%zmienprefix** *prefix* | | ustawia prefix bota na *prefix* | administrator |
+| **%clear** | **%clear** *n* | usuwa 1 wiadomość \| usuwa *n* wiadomości | administrator |
+
