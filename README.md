@@ -44,7 +44,7 @@ Czy jest bezpieczne?
 Ymir przechowuje jedynie informacje o ID kanału oraz o przypisanym do niego permisji.
 Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłeś na śniadanko! :) 
 
-####Komendy:
+#### Komendy:
 wymagana permisja: administrator 
 %dodajkontrole | dodaje ten kanał do kontroli i domyślnie ustawia kontrolę na: zakaz przeklinania
 %usunkontrole | usuwa wszystkiego kontrole z tego kanału
