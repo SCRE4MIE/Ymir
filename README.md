@@ -1,4 +1,4 @@
-# Dokumentacja Discord Bota Ymir
+# Dokumentacja Discord Bota Ymir#6263
 ### ***SCREAMIE#9946***
 
 | Ymir_help | pokazuje aktualny prefix na serwerze |
