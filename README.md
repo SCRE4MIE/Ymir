@@ -47,3 +47,29 @@
 | :--- | :----- |:--- | :--- |
 | **%sumakontrolnaip** *ip_hexadecymal* | | zwraca sumę kontrolną w bitach i hexadecymalną oraz pokazuje proces liczenia | |
 | **%weryfikacjasumykontrolnejip** *ip_hexadecymal* | | zwraca wynik sprawdzenia sumy kontrolnej ip oraz pokazuje proces liczenia | |
+
+
+#### System Kontroli Kanałów Ymir ***BETA TESTY***
+
+***Jak to działa?***  
+Po dodaniu ddanego kanału do bota, Ymir zacznie automatycznie reagować na dane zachowania na tym kanale.
+Dla przykładu: administrator serwera ustawia kontrole na "zakaz przeklinania". Gdy ktos użyje wulgaryzmu,
+Ymir automatycznie usunie taką wiadmość i wyśle komunikat o zakazie używania wulgaryzmów.  
+
+***Czy jest bezpieczne?***  
+
+Ymir przechowuje jedynie informacje o ID kanału oraz o przypisanym do niego permisji.
+Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłeś na śniadanko! :)  
+
+**KOMENDY**  
+| Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
+| :--- | :----- |:--- | :--- |
+| **%dodajkontrole** | | dodaje ten kanał do kontroli i domyślnie ustawia kontrolę na: zakaz przeklinania | administrator |
+| **%usunkontrole** | | usuwa wszystkiego kontrole z tego kanału | administrator |
+| **%infokontrola** | | wyświetla informacje o ustawieniach kontroli | administrator |
+| **%kontrola** *permisja* | | ustawia kontrole na dane permisje | administrator |  
+***Permisje***  
+| Permisja | Opis | 
+| :--- | :--- |
+| **A** | zakaz używania wulgaryzmów |
+| **L** | zakaz wysyłania linków | 
