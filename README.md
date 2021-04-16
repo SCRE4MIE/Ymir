@@ -1,4 +1,4 @@
-DOKUMENTACJA BOTA YMIR 
+#DOKUMENTACJA BOTA YMIR 
 
 Komendy Podstawowe:
 %hi | wysyła informacje o bocie
