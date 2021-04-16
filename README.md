@@ -4,4 +4,5 @@
 #### Komendy podstawowe:  
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
-| :--- | :---- | :---: | ---: | 
+| :--- | :---- | :---: | ---: |
+| **%hi** | | wysyła informacje o bocie | |
