@@ -4,4 +4,4 @@
 #### Komendy podstawowe:  
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
-|--- |---- | --- | --- | 
+|:--- |:---- | :---: | ---:| 
