@@ -32,3 +32,18 @@
 | :--- | :----- |:--- | :--- |
 | **%decimalBIN** *liczba* | | zwraca zamienioną *liczbę* dziesiętna na binarną i pokazuje wizualizacje procesu liczenia| |
 | **%hexaBIN** *liczba* | | zwraca zamienioną liczbę hexadecymalną na binarną | | 
+
+
+#### Tworzenie kodów CRC:
+| Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
+| :--- | :----- |:--- | :--- |
+| **%allCRC** | | pokazuję listę dzielników CRC | |
+| **%CRC** *ciąg_bitowy* *n_dodanych_bitów* *dzielnik* | | zwraca graficzne rozwiązanie wartości kodu CRC | |
+| **randomCRC** *ilu_bitowy* *dzielnik* *wynik_w_bitach* | | zwraca graficzne rozwiązanie randomowego ciagu N-bitów pasującego do danego kodu CRC | |
+
+
+#### Sprawdzanie sumy IP:
+| Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
+| :--- | :----- |:--- | :--- |
+| **%sumakontrolnaip** *ip_hexadecymal* | | zwraca sumę kontrolną w bitach i hexadecymalną oraz pokazuje proces liczenia | |
+| **%weryfikacjasumykontrolnejip** *ip_hexadecymal* | | zwraca wynik sprawdzenia sumy kontrolnej ip oraz pokazuje proces liczenia | |
