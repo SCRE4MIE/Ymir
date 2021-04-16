@@ -10,4 +10,4 @@
 | :--- | :--- |:--- | :--- |
 | **%hi** | | wysyła informacje o bocie | |
 | **%poke** *@user* | | wysyła wiadomość poke do wzkazanego użytkownika | |
-| **%say** *text* | | | tworzy wpisany text w formie ramki | |
+| **%say** *text* | | tworzy wpisany text w formie ramki | |
