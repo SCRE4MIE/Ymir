@@ -1,21 +1,21 @@
 # DOKUMENTACJA BOTA YMIR 
 
 ## Komendy Podstawowe: 
-%hi | wysyła informacje o bocie  
+**%hi**  wysyła informacje o bocie  
 
-%poke ***@user*** | wysyła wiadomość poke do wzkazanego użytkownika  
+**%poke** ***@user***  wysyła wiadomość poke do wzkazanego użytkownika  
 
-%say ***text*** | tworzy wpisany text w formie ramki  
+**%say** ***text***  tworzy wpisany text w formie ramki  
 
 *wymagana permisja: administrator* -----------------------------------  
 
-%zmienprefix ***prefix*** | ustawia prefix bota na wzkazany  
+**%zmienprefix** ***prefix***  ustawia prefix bota na wzkazany  
 
-%clear (%clear ***n***) | usuwa 1 wiadomość(n - wiadomości)  
+**%clear** (%clear ***n***)  usuwa 1 wiadomość(n - wiadomości)  
 
-%serverlogs (%serverlogs ***n***) | wysyła w prywatnej wiadomości 10 logów serwera ( n- logów)  
+**%serverlogs** (%serverlogs ***n***)  wysyła w prywatnej wiadomości 10 logów serwera ( n- logów)  
 
-%dc ***@user*** | po 10 sekundach wyrzuca wskazanego użytkownika  
+**%dc** ***@user***  po 10 sekundach wyrzuca wskazanego użytkownika  
 
 ## Konfiguracja serwera: *wymagana permisja: administrator*  
 %zbudujserwer | automatycznie tworzy podstawowe kanały i rangi  
