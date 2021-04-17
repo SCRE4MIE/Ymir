@@ -38,6 +38,9 @@
 
 
 #### Tworzenie kodów CRC:
+
+![](images/CRC.gif)
+
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
 | **%allCRC** | | pokazuję listę dzielników CRC | |
