@@ -39,7 +39,7 @@
 
 #### Tworzenie kodów CRC:
 
-![](images/CRC.gif)
+![](images/CRC2.gif)
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
