@@ -50,7 +50,7 @@
 
 #### Sprawdzanie sumy IP:
 
-<img scr="images/CRC.gif" width = "400">
+![](images/CRC.gif)
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
