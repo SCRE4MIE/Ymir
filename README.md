@@ -69,6 +69,10 @@ Ymir automatycznie usunie taką wiadmość i wyśle komunikat o zakazie używani
 Ymir przechowuje jedynie informacje o ID kanału oraz o przypisanym do niego permisji.
 Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłeś na śniadanko! :)  
 
+**Przechowywane informacje:***  
+-ID kanału
+-ID serwera discord
+
 **KOMENDY:**  
 
 ![](images/skky.gif)
@@ -86,3 +90,4 @@ Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłe
 | :--- | :--- |
 | **A** | zakaz używania wulgaryzmów |
 | **L** | zakaz wysyłania linków | 
+
