@@ -49,6 +49,9 @@
 
 
 #### Sprawdzanie sumy IP:
+
+![](images/weryfikacjasumykontrolnejip.gif)
+
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
 | **%sumakontrolnaip** *ip_hexadecymal* | | zwraca sumę kontrolną w bitach i hexadecymalną oraz pokazuje proces liczenia | |
