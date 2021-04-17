@@ -69,9 +69,10 @@ Ymir automatycznie usunie taką wiadmość i wyśle komunikat o zakazie używani
 Ymir przechowuje jedynie informacje o ID kanału oraz o przypisanym do niego permisji.
 Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłeś na śniadanko! :)  
 
+**KOMENDY**  
+
 ![](images/skky.gif)
 
-**KOMENDY**  
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
 | **%dodajkontrole** | | dodaje ten kanał do kontroli i domyślnie ustawia kontrolę na: zakaz przeklinania | administrator |
