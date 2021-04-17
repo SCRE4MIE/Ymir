@@ -50,7 +50,7 @@
 
 #### Sprawdzanie sumy IP:
 
-![](images/CRC.gif)
+![](images/weryfikacjasumykontrolnejip.gif)
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
