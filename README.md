@@ -19,7 +19,7 @@
 
 #### Konfiguracja serwera:  
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
-| :----------------------- | :----- |:--- | :--- |
+| :--- | :--- |:--- | :--- |
 | **%zbudujserwer** | | automatycznie tworzy podstawowe kanały i rangi na serwerze | administrator |
 | **%zbudujtext** *nazwa* | **%zbudujtext** *nazwa* *kategoria* | tworzy kanał tekstowy *nazwa* \| dodatkowo tworzy kategorię *kategoria* i go tam umieszcza | administrator |
 | **%dodajtext** *nazwa* *kategoria* |  | tworzy kanał tekstowy *nazwa* i umieszcza go w kategori *kategoria*| administrator |
