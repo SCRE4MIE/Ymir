@@ -4,8 +4,7 @@
 | Ymir_help | pokazuje aktualny prefix na serwerze |
 | :--- | :--- |
 
-![](images/Ymir_help.png)
-![](images/zmienprefix2.png)
+![](images/Ymir_komendy.gif)
 
 #### Komendy podstawowe:  
 
