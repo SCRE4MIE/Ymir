@@ -5,7 +5,7 @@
 | :--- | :--- |
 
 ![](images/Ymir_help.png)
-![](images/zmienprefix.png)
+![](images/zmienprefix2.png)
 
 #### Komendy podstawowe:  
 
