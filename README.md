@@ -70,7 +70,7 @@ Ymir przechowuje jedynie informacje o ID kanału oraz o przypisanym do niego per
 Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłeś na śniadanko! :)  
 
 **Przechowywane informacje:**  
--ID kanału serwera Discord 
+-ID kanału serwera Discord  
 -ID serwera Discord
 
 **KOMENDY:**  
