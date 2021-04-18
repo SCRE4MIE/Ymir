@@ -1,4 +1,4 @@
-# ***Dokumentacja Discord Bota Ymir***
+# **Dokumentacja Discord Bota Ymir**
 ### Tworca: ***SCREAMIE#9946***  
 -------------------------------------------------------------------------------------
 
