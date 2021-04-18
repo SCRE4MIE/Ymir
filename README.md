@@ -67,7 +67,7 @@ Ymir automatycznie usunie taką wiadmość i wyśle komunikat o zakazie używani
 
 ***Czy jest bezpieczne?***  
 
-Ymir przechowuje jedynie informacje o ID kanału oraz o przypisanym do niego permisji.
+Ymir przechowuje jedynie informacje o ID kanału oraz o przypisanej do niego permisji.
 Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłeś na śniadanko! :)  
 
 **Przechowywane informacje:**  
