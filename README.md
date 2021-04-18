@@ -1,5 +1,6 @@
 # Dokumentacja Discord Bota Ymir
-### Tworca: ***SCREAMIE#9946***
+### Tworca: ***SCREAMIE#9946***  
+-------------------------------------------------------------------------------------
 
 | Ymir_help | pokazuje aktualny prefix na serwerze |
 | :--- | :--- |
