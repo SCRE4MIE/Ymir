@@ -7,7 +7,7 @@
 
 ![](images/Ymir_komendy.gif)
 
-#### Komendy podstawowe:  
+### Komendy podstawowe:  
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
@@ -20,7 +20,7 @@
 | **%dc** *@user* | | usuwa użytkownika z kanału głosowego | administrator |
 
 
-#### Konfiguracja serwera:  
+### Konfiguracja serwera:  
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
 | **%zbudujserwer** | | automatycznie tworzy podstawowe kanały i rangi na serwerze | administrator |
@@ -30,14 +30,14 @@
 | **%dodajvoice** *nazwa* *kategoria* |  | tworzy kanał głosowy i umieszcza go w kategori *kategoria* | administrator | 
 
 
-#### Obliczenia:
+### Obliczenia:
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
 | **%decimalBIN** *liczba* | | zwraca zamienioną *liczbę* dziesiętna na binarną i pokazuje wizualizacje procesu liczenia| |
 | **%hexaBIN** *liczba* | | zwraca zamienioną liczbę hexadecymalną na binarną | | 
 
 
-#### Tworzenie kodów CRC:
+### Tworzenie kodów CRC:
 
 ![](images/CRC2.gif)
 
@@ -48,7 +48,7 @@
 | **%randomCRC** *ilu_bitowy* *dzielnik* *wynik_w_bitach* | | zwraca graficzne rozwiązanie randomowego ciagu N-bitów pasującego do danego kodu CRC | |
 
 
-#### Sprawdzanie sumy IP:
+### Sprawdzanie sumy IP:
 
 ![](images/weryfikacjasumykontrolnejip.gif)
 
@@ -58,7 +58,7 @@
 | **%weryfikacjasumykontrolnejip** *ip_hexadecymal* | | zwraca wynik sprawdzenia sumy kontrolnej ip oraz pokazuje proces liczenia | |
 
 
-#### System Kontroli Kanałów Ymir ***BETA TESTY***
+### System Kontroli Kanałów Ymir ***BETA TESTY***
 
 ***Jak to działa?***  
 Po dodaniu danego kanału do bota, Ymir zacznie automatycznie reagować na dane zachowania na tym kanale.
