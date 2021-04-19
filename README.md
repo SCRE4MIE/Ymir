@@ -32,6 +32,9 @@
 
 ### Gra wisielec:  
 **Twórcy:** ***Magdalena#6689***, ***SCREAMIE#9946***  
+
+![](images/wisielec.gif)
+
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
 | **%egzekucja** | | rozpoczyna nową grę na danym kanale tekstowym - jedna gra może być grana na jednym kanale ale ilość grających osób na tym kanale jest nieograniczona| |
