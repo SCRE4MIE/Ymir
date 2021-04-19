@@ -30,6 +30,13 @@
 | **%dodajvoice** *nazwa* *kategoria* |  | tworzy kanał głosowy i umieszcza go w kategori *kategoria* | administrator | 
 
 
+### Gra wisielec:  
+**Twórcy:** ***Magdalena#6689***, ***SCREAMIE#9946***  
+| Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
+| :--- | :----- |:--- | :--- |
+| **%egzekucja** | | rozpoczyna nową grę na danym kanale tekstowym - jedna gra może być grana na jednym kanale ale ilość grających osób na tym kanale jest nieograniczona| |
+| **%zgaduje** *litera* | %zgaduje *słowo* | sprawdza czy dana *litera* pasuje \| czy dane *słowo* jest rozwiązaniem | | 
+
 ### Obliczenia:
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
