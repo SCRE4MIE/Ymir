@@ -5,7 +5,7 @@
 | Ymir_help | pokazuje aktualny prefix na serwerze |
 | :--- | :--- |
 
-![](images/Ymir_komendy.gif)
+![](ymir_gif/Ymir_help_command.gif)
 
 ### Komendy podstawowe:  
 
@@ -33,7 +33,7 @@
 ### Gra wisielec:  
 **Twórcy:** ***Magdalena#6689***, ***SCREAMIE#9946***  
 
-![](images/wisielec.gif)
+![](ymir_gif/wisiel_command.gif)
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
@@ -49,7 +49,7 @@
 
 ### Tworzenie kodów CRC:
 
-![](images/CRC2.gif)
+![](ymir_gif/CRC_command.gif)
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
@@ -60,7 +60,7 @@
 
 ### Sprawdzanie sumy IP:
 
-![](images/weryfikacjasumykontrolnejip.gif)
+![](ymir_gif/IP_command.gif)
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
@@ -86,7 +86,7 @@ Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłe
 
 **KOMENDY:**  
 
-![](images/skky.gif)
+![](ymir_gif/skky_command.gif)
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
