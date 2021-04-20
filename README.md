@@ -1,5 +1,5 @@
 # **Dokumentacja Discord Bota Ymir**
-<img src="ymir_gif/Ymir_banner.png" width = "600">
+<img src="ymir_gif/Ymir_banner.png" width = "600">  
 ### Twórca: ***SCREAMIE#9946***  
 -------------------------------------------------------------------------------------
 
