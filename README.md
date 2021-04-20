@@ -1,6 +1,7 @@
 # **Dokumentacja Discord Bota Ymir**
 ![](ymir_gif/Ymir_banner.png)
 ### Twórca: ***SCREAMIE#9946***  
+![Zaproś Ymir na serwer](https://discord.com/api/oauth2/authorize?client_id=829256206170062888&permissions=8&scope=bot)
 -------------------------------------------------------------------------------------
 
 | Ymir_help | pokazuje aktualny prefix na serwerze |
