@@ -19,6 +19,11 @@
 | **%serverlogs** | **serverlogs** *n* | wysyła w dm 10 logów serwera \| *n* logów | administrator |
 | **%dc** *@user* | | usuwa użytkownika z kanału głosowego | administrator |
 
+### Przypomnienia:  
+
+| Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
+| :--- | :--- |:--- | :--- |
+| **%przypomnij** *dzień* *miesiąc* *rok* *treść* | | zapisuje przypomnienie na podaną datę i przy następnej zmianie z nieaktywnego na aktywny, bot wyśle wiadomość prywatną z *treść* | |
 
 ### Konfiguracja serwera:  
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
