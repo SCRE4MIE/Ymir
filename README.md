@@ -15,7 +15,8 @@
 | **%poke** *@user* | | wysyła wiadomość poke do wzkazanego użytkownika o ile nie jest botem, lub nie ma statusu "nie przeszkadzać" lub nie jest offline | |
 | **%pokeALL** | | wysyła wiadomość do wsztstkich użytkowników serwera o ile użytkownik nie jest offline i nie jest botem| administrator |
 | **%forcepoke** *@user* | | wysyła wiadomość poke o ile dany użytkownik nie jest botem | administrator |
-| **%say** *text* | | tworzy wpisany text w formie ramki | |
+| **%say** *text* | | tworzy wpisany text w formie ramki, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | |
+| **%sayRGB** *R* *G* *B* | | tworzy wpisany text w formie ramki o kolorze *RGB*, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | | 
 | **%zmienprefix** *prefix* | | ustawia prefix bota na *prefix* | administrator |
 | **%clear** | **%clear** *n* | usuwa 1 wiadomość \| *n* wiadomości | administrator |
 | **%serverlogs** | **serverlogs** *n* | wysyła w dm 10 logów serwera \| *n* logów | administrator |
