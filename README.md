@@ -12,7 +12,9 @@
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
 | **%hi** | | wysyła informacje o bocie | |
-| **%poke** *@user* | | wysyła wiadomość poke do wzkazanego użytkownika | |
+| **%poke** *@user* | | wysyła wiadomość poke do wzkazanego użytkownika o ile nie jest botem, lub nie ma statusu "nie przeszkadzać" lub nie jest offline | |
+| **%pokeALL** | | wysyła wiadomość do wsztstkich użytkowników serwera o ile użytkownik nie jest offline i nie jest botem| administrator |
+| **%forcepoke** *@user* | | wysyła wiadomość poke o ile dany użytkownik nie jest botem | administrator |
 | **%say** *text* | | tworzy wpisany text w formie ramki | |
 | **%zmienprefix** *prefix* | | ustawia prefix bota na *prefix* | administrator |
 | **%clear** | **%clear** *n* | usuwa 1 wiadomość \| *n* wiadomości | administrator |
