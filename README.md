@@ -19,7 +19,7 @@
 | **%sayRGB** *R* *G* *B* | | tworzy wpisany text w formie ramki o kolorze *RGB*, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | | 
 | **%zmienprefix** *prefix* | | ustawia prefix bota na *prefix* | administrator |
 | **%clear** | **%clear** *n* | usuwa 1 wiadomość \| *n* wiadomości | administrator |
-| **%serverlogs** | **serverlogs** *n* | wysyła w prywatnej wiadomości 10 logów serwera \| *n* logów | administrator |
+| **%serverlogs** | **serverlogs** *n* | wysyła w prywatnej wiadomości liczbę użytkowników oraz: 10 logów serwera \| *n* logów | administrator |
 | **%dc** *@user* | | usuwa użytkownika z kanału głosowego | administrator |
 
 ### Przypomnienia:  
