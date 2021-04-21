@@ -24,7 +24,8 @@
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
 | **%przypomnij** *dzień* *miesiąc* *rok* *treść* | | zapisuje przypomnienie na podaną datę i przy następnej zmianie z nieaktywnego na aktywny, w podanym dniu, bot wyśle wiadomość prywatną z *treść* (przypomnienie wyśle się tylko raz gdy nastąpi zmiana statusu) ***UWAGA*** jeżeli jesteś na dwóch serwerach gdzie jest Ymir, to bot wyśle podwójnie przypomnienie w tym samym czasie| |
-| **%usunprzypomnienie** | | usuwa przypomnienie | | 
+| **%usunprzypomnienie** | | usuwa przypomnienie | |   
+*twórca bota nie ponosi odpowiedzialności za zamieszczane treści
 
 ### Konfiguracja serwera:  
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
