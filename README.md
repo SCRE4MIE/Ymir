@@ -11,8 +11,9 @@
 - **Gry:**
   - [Wisielec](#gra-wisielec)
 - [Obliczenia](#obliczenia)
-- [Tworzenie kodów CRC](#tworzenie-kodów-crc)
-- [Sprawdzanie sumy IP](#sprawdzanie-sumy-ip)
+- **Sieci komputerowe:**
+  - [Tworzenie kodów CRC](#tworzenie-kodów-crc)
+  - [Sprawdzanie sumy IP](#sprawdzanie-sumy-ip)
 - [System kontroli kanałów Ymir | *BETA TESTY*](#system-kontroli-kanałów-ymir-beta-testy)  
 -------------------------------------------------------------------------------
 
