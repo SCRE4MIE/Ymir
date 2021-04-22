@@ -32,7 +32,8 @@
 | **%pokeALL** | | wysyła wiadomość do wszystkich użytkowników serwera o ile użytkownik nie jest offline i nie jest botem| administrator |
 | **%forcepoke** *@user* | | wysyła wiadomość poke o ile dany użytkownik nie jest botem | administrator |
 | **%say** *text* | | tworzy wpisany text w formie ramki, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | |
-| **%sayRGB** *R* *G* *B* | | tworzy wpisany text w formie ramki o kolorze *RGB*, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | | 
+| **%sayRGB** *R* *G* *B* | | tworzy wpisany text w formie ramki o kolorze *RGB*, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | |  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Moderacja:
@@ -42,7 +43,8 @@
 | **%clear** | **%clear** *n* | usuwa 1 wiadomość \| *n* wiadomości (max 200)| manage_messages |
 | **%clearAV** *limit* *@user* | | usuwa tylko wiadomości wzkazanego *@user*, ***UWAGA*** *limit* to ilość wiadomości jakie bot ma ogólnie sprawdzić i usunąć w nich wiadomości autora *@user* a nie ile tych wiadomości tego autora ma usunąc (max 200 do sprawdzenia) | manage_messages |
 | **%serverlogs** | **%serverlogs** *n* | wysyła w prywatnej wiadomości liczbę użytkowników oraz: 10 logów serwera \| *n* logów | administrator |
-| **%dc** *@user* | | usuwa użytkownika z kanału głosowego | administrator |
+| **%dc** *@user* | | usuwa użytkownika z kanału głosowego | administrator |  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Konfiguracja serwera:  
@@ -53,8 +55,9 @@
 | **%zbudujserwer** | | automatycznie tworzy podstawowe kanały i rangi na serwerze | administrator |
 | **%zbudujtext** *nazwa* | **%zbudujtext** *nazwa* *kategoria* | tworzy kanał tekstowy *nazwa* \| dodatkowo tworzy kategorię *kategoria* i go tam umieszcza | administrator |
 | **%dodajtext** *nazwa* *kategoria* |  | tworzy kanał tekstowy *nazwa* i umieszcza go w kategori *kategoria*| administrator |
-| **%zbudujvoice** *nazwa* | **%zbudujvoice** *nazwa* *kategoria* | tworzy kanał głosowy *nazwa* \| dodatkowo tworzy kategorię *kategoria* i go tam umieszcza | administrator |
-| **%dodajvoice** *nazwa* *kategoria* |  | tworzy kanał głosowy i umieszcza go w kategori *kategoria* | administrator | 
+| **%zbudujvoice** *nazwa* | **%zbudujvoice** *nazwa* *kategoria* | tworzy kanał głosowy *nazwa* \| dodatkowo tworzy kategorię *kategoria* i go tam umieszcza | administrator|
+| **%dodajvoice** *nazwa* *kategoria* |  | tworzy kanał głosowy i umieszcza go w kategori *kategoria* | administrator |  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Przypomnienia:  
 
@@ -63,7 +66,8 @@
 | **%przypomnij** *dzień* *miesiąc* *rok* *treść* | | zapisuje przypomnienie na podaną datę i przy następnej zmianie z nieaktywnego na aktywny, w podanym dniu, bot wyśle wiadomość prywatną z *treść* (przypomnienie wyśle się tylko raz gdy nastąpi zmiana statusu) ***UWAGA 1*** jeżeli jesteś na dwóch serwerach gdzie jest Ymir, to bot wyśle podwójnie przypomnienie w tym samym czasie ***UWAGA 2*** możesz mieć tylko jedno przypomnienie! użycie drugi raz tej komendy, nadpisze aktualne przypomnienie| |
 | **%usunprzypomnienie** | | usuwa przypomnienie | |   
 
-*twórca bota nie ponosi odpowiedzialności za zamieszczane treści
+*twórca bota nie ponosi odpowiedzialności za zamieszczane treści  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Gra wisielec:  
@@ -74,14 +78,16 @@
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
 | **%egzekucja** | | rozpoczyna nową grę na danym kanale tekstowym - jedna gra może być grana na jednym kanale ale ilość grających osób na tym kanale jest nieograniczona| |
-| **%zgaduje** *litera* | **%zgaduje** *słowo* | sprawdza czy dana *litera* pasuje \| czy dane *słowo* jest rozwiązaniem | | 
+| **%zgaduje** *litera* | **%zgaduje** *słowo* | sprawdza czy dana *litera* pasuje \| czy dane *słowo* jest rozwiązaniem | |  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Obliczenia:
 **Twórcy:** ***Tomasz#0711***, ***SCREAMIE#9946***
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
 | **%decimalBIN** *liczba* | | zwraca zamienioną *liczbę* dziesiętna na binarną i pokazuje wizualizacje procesu liczenia| |
-| **%hexaBIN** *liczba* | | zwraca zamienioną liczbę hexadecymalną na binarną | | 
+| **%hexaBIN** *liczba* | | zwraca zamienioną liczbę hexadecymalną na binarną | |  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Tworzenie kodów CRC:
@@ -92,7 +98,8 @@
 | :--- | :----- |:--- | :--- |
 | **%allCRC** | | pokazuję listę dzielników CRC | |
 | **%CRC** *ciąg_bitowy* *n_dodanych_bitów* *dzielnik* | | zwraca graficzne rozwiązanie wartości kodu CRC | |
-| **%randomCRC** *ilu_bitowy* *dzielnik* *wynik_w_bitach* | | zwraca graficzne rozwiązanie randomowego ciagu N-bitów pasującego do danego kodu CRC | |
+| **%randomCRC** *ilu_bitowy* *dzielnik* *wynik_w_bitach* | | zwraca graficzne rozwiązanie randomowego ciagu N-bitów pasującego do danego kodu CRC | |  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Sprawdzanie sumy IP:
@@ -102,7 +109,8 @@
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
 | **%sumakontrolnaip** *ip_hexadecymal* | | zwraca sumę kontrolną w bitach i hexadecymalną oraz pokazuje proces liczenia | |
-| **%weryfikacjasumykontrolnejip** *ip_hexadecymal* | | zwraca wynik sprawdzenia sumy kontrolnej ip oraz pokazuje proces liczenia | |
+| **%weryfikacjasumykontrolnejip** *ip_hexadecymal* | | zwraca wynik sprawdzenia sumy kontrolnej ip oraz pokazuje proces liczenia | |  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### System Kontroli Kanałów Ymir ***BETA TESTY***
