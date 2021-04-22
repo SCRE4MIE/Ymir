@@ -17,7 +17,7 @@
 - [Przypomnienia](#przypomnienia)
 - [Obliczenia](#obliczenia)
 - [Tworzenie kodów CRC](#tworzenie-kodów-crc)
-- [Sprawdzanie sumy ip](#sprawdzanie-sumy-ip)
+- [Sprawdzanie sumy IP](#sprawdzanie-sumy-ip)
 - [System kontroli kanałów Ymir | *BETA TESTY*](#system-kontroli-kanałów-ymir-beta-testy)
 
 
