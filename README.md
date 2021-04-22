@@ -67,6 +67,7 @@
 | **%usunprzypomnienie** | | usuwa przypomnienie | |  
 
 *twórca bota nie ponosi odpowiedzialności za zamieszczane treści*  
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
