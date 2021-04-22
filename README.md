@@ -18,6 +18,12 @@
 | **%forcepoke** *@user* | | wysyła wiadomość poke o ile dany użytkownik nie jest botem | administrator |
 | **%say** *text* | | tworzy wpisany text w formie ramki, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | |
 | **%sayRGB** *R* *G* *B* | | tworzy wpisany text w formie ramki o kolorze *RGB*, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | | 
+
+
+### Moderacja:
+
+| Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
+| :--- | :--- |:--- | :--- |
 | **%zmienprefix** *prefix* | | ustawia prefix bota na *prefix* | administrator |
 | **%clear** | **%clear** *n* | usuwa 1 wiadomość \| *n* wiadomości (max 200)| manage_messages |
 | **%clearAV** *limit* *@user* | | usuwa tylko wiadomości wzkazanego *@user*, ***UWAGA*** *limit* to ilość wiadomości jakie bot ma ogólnie sprawdzić i usunąć w nich wiadomości autora *@user* a nie ile tych wiadomości tego autora ma usunąc (max 200 do sprawdzenia) | manage_messages |
