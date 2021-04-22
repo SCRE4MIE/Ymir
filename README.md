@@ -14,6 +14,7 @@
 - [Tworzenie kodów CRC](#tworzenie-kodów-crc)
 - [Sprawdzanie sumy IP](#sprawdzanie-sumy-ip)
 - [System kontroli kanałów Ymir | *BETA TESTY*](#system-kontroli-kanałów-ymir-beta-testy)  
+- ------------------------------------------------------------------------------
 
 | Ymir_help | pokazuje aktualny prefix na serwerze |
 | :--- | :--- |
