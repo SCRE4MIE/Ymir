@@ -34,6 +34,7 @@
 | **%forcepoke** *@user* | | wysyła wiadomość poke o ile dany użytkownik nie jest botem | administrator |
 | **%say** *text* | | tworzy wpisany text w formie ramki, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | |
 | **%sayRGB** *R* *G* *B* | | tworzy wpisany text w formie ramki o kolorze *RGB*, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | |  
+[powrót](#spis-komend)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
