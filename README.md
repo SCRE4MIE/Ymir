@@ -12,9 +12,9 @@
 - [Komendy podstawowe](#komendy-podstawowe)
 - [Moderacja](#moderacja)
 - [Konfiguracja serwera](#konfiguracja-serwera)
+- [Przypomnienia](#przypomnienia)
 - **Gry:**
   - [Wisielec](#gra-wisielec)
-- [Przypomnienia](#przypomnienia)
 - [Obliczenia](#obliczenia)
 - [Tworzenie kodów CRC](#tworzenie-kodów-crc)
 - [Sprawdzanie sumy IP](#sprawdzanie-sumy-ip)
