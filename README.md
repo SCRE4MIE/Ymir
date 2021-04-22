@@ -3,11 +3,6 @@
 [Zaproś Ymir na serwer](https://discord.com/oauth2/authorize?client_id=829256206170062888&permissions=8&scope=bot)
 -------------------------------------------------------------------------------------
 
-| Ymir_help | pokazuje aktualny prefix na serwerze |
-| :--- | :--- |
-
-![](ymir_gif/Ymir_help_command.gif)
-
 ## Spis komend:  
 - [Komendy podstawowe](#komendy-podstawowe)
 - [Moderacja](#moderacja)
@@ -18,7 +13,12 @@
 - [Obliczenia](#obliczenia)
 - [Tworzenie kodów CRC](#tworzenie-kodów-crc)
 - [Sprawdzanie sumy IP](#sprawdzanie-sumy-ip)
-- [System kontroli kanałów Ymir | *BETA TESTY*](#system-kontroli-kanałów-ymir-beta-testy)
+- [System kontroli kanałów Ymir | *BETA TESTY*](#system-kontroli-kanałów-ymir-beta-testy)  
+
+| Ymir_help | pokazuje aktualny prefix na serwerze |
+| :--- | :--- |
+
+![](ymir_gif/Ymir_help_command.gif)
 
 
 ### Komendy podstawowe:  
