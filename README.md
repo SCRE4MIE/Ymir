@@ -35,7 +35,8 @@
 | **%say** *text* | | tworzy wpisany text w formie ramki, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | |
 | **%sayRGB** *R* *G* *B* | | tworzy wpisany text w formie ramki o kolorze *RGB*, dodatkowo jeżeli jest to administrator to usuwa wiadomość z komendą | |  
 
-[powrót](#spis-komend)
+[powrót](#spis-komend)  
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -48,7 +49,8 @@
 | **%serverlogs** | **%serverlogs** *n* | wysyła w prywatnej wiadomości liczbę użytkowników oraz: 10 logów serwera \| *n* logów | administrator |
 | **%dc** *@user* | | usuwa użytkownika z kanału głosowego | administrator |  
 
-[powrót](#spis-komend)
+[powrót](#spis-komend)  
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -63,7 +65,8 @@
 | **%zbudujvoice** *nazwa* | **%zbudujvoice** *nazwa* *kategoria* | tworzy kanał głosowy *nazwa* \| dodatkowo tworzy kategorię *kategoria* i go tam umieszcza | administrator|
 | **%dodajvoice** *nazwa* *kategoria* |  | tworzy kanał głosowy i umieszcza go w kategori *kategoria* | administrator |  
 
-[powrót](#spis-komend)
+[powrót](#spis-komend)  
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Przypomnienia:  
@@ -75,7 +78,8 @@
 
 **twórca bota nie ponosi odpowiedzialności za zamieszczane treści*  
 
-[powrót](#spis-komend)
+[powrót](#spis-komend)  
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -97,7 +101,8 @@
 | **%decimalBIN** *liczba* | | zwraca zamienioną *liczbę* dziesiętna na binarną i pokazuje wizualizacje procesu liczenia| |
 | **%hexaBIN** *liczba* | | zwraca zamienioną liczbę hexadecymalną na binarną | |  
 
-[powrót](#spis-komend)
+[powrót](#spis-komend)  
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -111,7 +116,8 @@
 | **%CRC** *ciąg_bitowy* *n_dodanych_bitów* *dzielnik* | | zwraca graficzne rozwiązanie wartości kodu CRC | |
 | **%randomCRC** *ilu_bitowy* *dzielnik* *wynik_w_bitach* | | zwraca graficzne rozwiązanie randomowego ciagu N-bitów pasującego do danego kodu CRC | |  
 
-[powrót](#spis-komend)
+[powrót](#spis-komend)  
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -124,7 +130,8 @@
 | **%sumakontrolnaip** *ip_hexadecymal* | | zwraca sumę kontrolną w bitach i hexadecymalną oraz pokazuje proces liczenia | |
 | **%weryfikacjasumykontrolnejip** *ip_hexadecymal* | | zwraca wynik sprawdzenia sumy kontrolnej ip oraz pokazuje proces liczenia | |  
 
-[powrót](#spis-komend)
+[powrót](#spis-komend)  
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -162,6 +169,7 @@ Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłe
 | **A** | zakaz używania wulgaryzmów |
 | **L** | zakaz wysyłania linków |  
 
-[powrót](#spis-komend)
+[powrót](#spis-komend)  
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
