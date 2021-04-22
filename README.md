@@ -8,7 +8,7 @@
 
 ![](ymir_gif/Ymir_help_command.gif)
 
-##Spis komend:  
+## Spis komend:  
 - [Komendy podstawowe](#komendy-podstawowe)
 - [Moderacja](#moderacja)
 - [Konfiguracja serwera](#konfiguracja-serwera)
@@ -18,7 +18,7 @@
 - [Obliczenia](#obliczenia)
 - [Tworzenie kodów CRC](#tworzenie-kodów-crc)
 - [Sprawdzanie sumy ip](#sprawdzanie-sumy-ip)
-- [System kontroli kanałów Ymir | *BETA TESTY*](kontroli-kanałów-ymir-beta-testy)
+- [System kontroli kanałów Ymir | *BETA TESTY*](#system-kontroli-kanałów-ymir-beta-testy)
 
 
 ### Komendy podstawowe:  
