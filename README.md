@@ -25,6 +25,7 @@
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
+| **%zmienprefix** *prefix* | | ustawia prefix bota na *prefix* | administrator |
 | **%hi** | | wysyła informacje o bocie | |
 | **%poke** *@user* | | wysyła wiadomość poke do wzkazanego użytkownika o ile nie jest botem, lub nie ma statusu "nie przeszkadzać" lub nie jest offline | |
 | **%pokeALL** | | wysyła wiadomość do wszystkich użytkowników serwera o ile użytkownik nie jest offline i nie jest botem| administrator |
@@ -37,7 +38,6 @@
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
-| **%zmienprefix** *prefix* | | ustawia prefix bota na *prefix* | administrator |
 | **%clear** | **%clear** *n* | usuwa 1 wiadomość \| *n* wiadomości (max 200)| manage_messages |
 | **%clearAV** *limit* *@user* | | usuwa tylko wiadomości wzkazanego *@user*, ***UWAGA*** *limit* to ilość wiadomości jakie bot ma ogólnie sprawdzić i usunąć w nich wiadomości autora *@user* a nie ile tych wiadomości tego autora ma usunąc (max 200 do sprawdzenia) | manage_messages |
 | **%serverlogs** | **%serverlogs** *n* | wysyła w prywatnej wiadomości liczbę użytkowników oraz: 10 logów serwera \| *n* logów | administrator |
