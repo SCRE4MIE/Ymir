@@ -8,6 +8,19 @@
 
 ![](ymir_gif/Ymir_help_command.gif)
 
+##Spis komend:  
+- [Komendy podstawowe](#komendy-podstawowe)
+- [Moderacja](#moderacja)
+- [Konfiguracja serwera](#konfiguracja-serwera)
+- **Gry:**
+  - [Wisielec](#gra-wisielec)
+- [Przypomnienia](#przypomnienia)
+- [Obliczenia](#obliczenia)
+- [Tworzenie kodów CRC](#tworzenie-kodów-crc)
+- [Sprawdzanie sumy ip](#sprawdzanie-sumy-ip)
+- [System kontroli kanałów Ymir | *BETA TESTY*](kontroli-kanałów-ymir-beta-testy)
+
+
 ### Komendy podstawowe:  
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
