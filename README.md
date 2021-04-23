@@ -47,10 +47,8 @@
 | **%clear** | **%clear** *n* | usuwa 1 wiadomość \| *n* wiadomości (max 200)| manage_messages |
 | **%clearAV** *limit* *@user* | | usuwa tylko wiadomości wzkazanego *@user*, ***UWAGA*** *limit* to ilość wiadomości jakie bot ma sprawdzić i usunie w nich wiadomości autora *@user* a nie ile wiadomości @user ma usunąć (max 200 do sprawdzenia) | manage_messages |
 | **%serverlogs** | **%serverlogs** *n* | wysyła w prywatnej wiadomości liczbę użytkowników oraz: 10 logów serwera \| *n* logów | administrator |
-| **%dc** *@user* | | usuwa użytkownika z kanału głosowego | administrator |
-| **%ustawPowitanie** | | Ymir zacznie wysyłać wiadomość powitalną po tym jak nowy użytkownik wejdzie na serwer ***UWAGA!*** musi być ustawiony kanał systemowy | administrator |
-| **%ustawPowitanieKanal** | | Ymir zacznie wysyłać wiadomość powitalną na kanale, którym została wywołana komenda | administrator |
-| **%usunPowitanie** | | usuwa opcję wysyłania powitań przez Ymir | administrator |  
+| **%dc** *@user* | | usuwa użytkownika z kanału głosowego | administrator |  
+
 
 [powrót](#spis-komend)  
 
@@ -66,7 +64,10 @@
 | **%zbudujtext** *nazwa* | **%zbudujtext** *nazwa* *kategoria* | tworzy kanał tekstowy *nazwa* \| dodatkowo tworzy kategorię *kategoria* i go tam umieszcza | administrator |
 | **%dodajtext** *nazwa* *kategoria* |  | tworzy kanał tekstowy *nazwa* i umieszcza go w kategori *kategoria*| administrator |
 | **%zbudujvoice** *nazwa* | **%zbudujvoice** *nazwa* *kategoria* | tworzy kanał głosowy *nazwa* \| dodatkowo tworzy kategorię *kategoria* i go tam umieszcza | administrator|
-| **%dodajvoice** *nazwa* *kategoria* |  | tworzy kanał głosowy i umieszcza go w kategori *kategoria* | administrator |  
+| **%dodajvoice** *nazwa* *kategoria* |  | tworzy kanał głosowy i umieszcza go w kategori *kategoria* | administrator |
+| **%ustawPowitanie** | | Ymir zacznie wysyłać wiadomość powitalną po tym jak nowy użytkownik wejdzie na serwer ***UWAGA!*** musi być ustawiony kanał systemowy | administrator |
+| **%ustawPowitanieKanal** | | Ymir zacznie wysyłać wiadomość powitalną na kanale, którym została wywołana komenda | administrator |
+| **%usunPowitanie** | | usuwa opcję wysyłania powitań przez Ymir | administrator |  
 
 [powrót](#spis-komend)  
 
