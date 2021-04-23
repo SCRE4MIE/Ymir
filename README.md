@@ -178,8 +178,8 @@ Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłe
 | **L** | zakaz wysyłania linków |
 | **S** | zakaz SPAMU (agresywna) |  
 
-***UWAGA!!*** Zakaz SPAMU jest kontrolą bardzo agresywną. Jeżeli odstęp między wiadomościami tego samego użytkownika będzię mniejszy niż 20 sekund, to Ymir uzna to za spam i 
-wyśle ostrzeżenie! Po 4 ostrzeżeniu ( poza permisją administrator) użytkownik zostanie wyrzucony z serwera!
+***UWAGA!!*** Zakaz SPAMU jest kontrolą bardzo agresywną. Jeżeli odstęp między wiadomościami tego samego użytkownika będzię mniejszy niż 20 sekund, Ymir uzna to za spam i 
+wyśle ostrzeżenie! Po czwartym ostrzeżeniu ( poza permisją administrator) użytkownik zostanie wyrzucony z serwera!
 
 [powrót](#spis-komend)  
 
