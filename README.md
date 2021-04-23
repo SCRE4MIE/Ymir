@@ -145,6 +145,7 @@
 ### System Kontroli Kanałów Ymir ***BETA TESTY***
 
 ***Jak to działa?***  
+
 Po dodaniu danego kanału do bota, Ymir zacznie automatycznie reagować na dane zachowania na tym kanale.
 Dla przykładu: administrator serwera ustawia kontrole na "zakaz przeklinania". Gdy ktos użyje wulgaryzmu,
 Ymir automatycznie usunie taką wiadmość i wyśle komunikat o zakazie używania wulgaryzmów.  
