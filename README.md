@@ -45,7 +45,7 @@
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
 | **%clear** | **%clear** *n* | usuwa 1 wiadomość \| *n* wiadomości (max 200)| manage_messages |
-| **%clearAV** *limit* *@user* | | usuwa tylko wiadomości wzkazanego *@user*, ***UWAGA*** *limit* to ilość wiadomości jakie bot ma ogólnie sprawdzić i usunąć w nich wiadomości autora *@user* a nie ile tych wiadomości tego autora ma usunąc (max 200 do sprawdzenia) | manage_messages |
+| **%clearAV** *limit* *@user* | | usuwa tylko wiadomości wzkazanego *@user*, ***UWAGA*** *limit* to ilość wiadomości jakie bot ma sprawdzić i usunie w nich wiadomości autora *@user* a nie ile wiadomości @user ma usunąć (max 200 do sprawdzenia) | manage_messages |
 | **%serverlogs** | **%serverlogs** *n* | wysyła w prywatnej wiadomości liczbę użytkowników oraz: 10 logów serwera \| *n* logów | administrator |
 | **%dc** *@user* | | usuwa użytkownika z kanału głosowego | administrator |  
 
@@ -174,7 +174,7 @@ Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłe
 | **S** | zakaz SPAMU |  
 
 ***UWAGA!!*** Zakaz SPAMU jest kontrolą bardzo agresywną. Jeżeli odstęp między wiadomościamy tego samego użytkownika będzię mniejszy niż 20 sekund, to Ymir uzna to za spam i 
-wyśle ostrzeżenie! Po 4 ostrzeżeniu ( poza permisja administrator) użytkownik zostanie wyrzucony z serwera!
+wyśle ostrzeżenie! Po 4 ostrzeżeniu ( poza permisją administrator) użytkownik zostanie wyrzucony z serwera!
 
 [powrót](#spis-komend)  
 
