@@ -171,7 +171,7 @@ Także możesz spać spokojnie! Ymir nie będzie śledzić tego, co dziś jadłe
 | **%kontrola** *permisja* | | ustawia kontrole na dane permisje | administrator |  
 
 
-***Permisje***  
+***Permisje***  (permisje można łączyć np.: %kontrola ASL)
 | Permisja | Opis | 
 | :--- | :--- |
 | **A** | zakaz używania wulgaryzmów |
