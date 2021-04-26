@@ -107,7 +107,8 @@
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
 | **%decimalBIN** *liczba* | | zwraca zamienioną *liczbę* dziesiętna na binarną i pokazuje wizualizacje procesu liczenia| |
-| **%hexaBIN** *liczba* | | zwraca zamienioną liczbę hexadecymalną na binarną | |  
+| **%hexaBIN** *liczba* | | zwraca zamienioną liczbę hexadecymalną na binarną | |
+| **%ipBIN** *adres* | | zwraca adres w postaci binarnej. Dla przykładu: **%ipBIN** *192.168.2.1* | |  
 
 [powrót](#spis-komend)  
 
