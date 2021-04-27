@@ -55,6 +55,15 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+### Role za reakcje na wiadomość:
+
+| Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
+| :--- | :--- |:--- | :--- |
+| **%dodajWiadomosc** *messageID* *emoji* *rolaID* | | ustawia wiadomość wzkazaną przez *messageID* i dodaje do niej reakcję wzkazaną przez *emoji*. Następnie Ymir automatycznie doda reakcję do tej wiadomości i osoba, która kliknie w tą reakcje, otrzyma rolę wzkazaną przez *rolaID*. ***UWAGA!*** pamiętaj o poprawnym wpisaniu ID wiadomości oraz ID roli. *Dozwolone custom emotki* ***KOMENDA MUSI BYĆ WYWOŁANA NA TYM SAMYM KANALE CO WZKAZYWANA WIADOMOŚĆ*** | administrator |
+| **%usunEmotke** *messageID* *emoji* | | usuwa przypisanie *emoji* z wiadomości wzkazanej przez *messageID* | administrator |  
+
+
+
 ### Konfiguracja serwera:  
 
 
