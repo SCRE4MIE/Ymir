@@ -63,6 +63,9 @@
 | **%usunEmotke** *messageID* *emoji* | | usuwa przypisanie *emoji* z wiadomości wzkazanej przez *messageID* | administrator |  
 
 
+[powrót](#role-za-reakcje-na-wiadomość)  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Konfiguracja serwera:  
 
