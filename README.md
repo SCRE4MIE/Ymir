@@ -6,6 +6,7 @@
 ## Spis komend:  
 - [Komendy podstawowe](#komendy-podstawowe)
 - [Moderacja](#moderacja)
+- [Rola za reakcje (role reactions)](#role-za-reakcje-na-wiadomość)
 - [Konfiguracja serwera](#konfiguracja-serwera)
 - [Przypomnienia](#przypomnienia)
 - **Gry:**
