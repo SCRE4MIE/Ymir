@@ -55,12 +55,17 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### Role za reakcje na wiadomość:
+### Role za reakcje na wiadomość:  
+
+Ymir potrafi nadać użytkownikowi wzkazaną rolę, która jest przepisana do reakcji na wiadomość. Aby to zrobić, musisz pierw przygotować wiadomość, ID tej wiadomośći oraz ID roli, jaka ma być przypisana do emoji(reakcji na wiadomość). Dodatkowo musisz ustawić rangę Ymir minimum powyżej roli, która będzie przypisana do reakcji na wiadomość. Rekomendowane jest umieszczenie Ymir najwyżej w hierarchi ról.  
+Kolejnym krokiem jest stworzenie własnej wiadomości, a następnie na tym samym kanale wywołanie komendy %dodajWiadomość, gdzie jako parametry wpisujesz dla przykładu:  
+%dodajWiadomosc 919804510 :D 91409112
+**Poprawyn wykonaniem komendy jest pojawienie się reakcji od Ymir pod wzkazaną wiadomością**  
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
 | **%dodajWiadomosc** *messageID* *emoji* *rolaID* | | ustawia wiadomość wzkazaną przez *messageID* i dodaje do niej reakcję wzkazaną przez *emoji*. Następnie Ymir automatycznie doda reakcję do tej wiadomości i osoba, która kliknie w tą reakcje, otrzyma rolę wzkazaną przez *rolaID*. ***UWAGA!*** pamiętaj o poprawnym wpisaniu ID wiadomości oraz ID roli. *Dozwolone custom emotki* ***KOMENDA MUSI BYĆ WYWOŁANA NA TYM SAMYM KANALE CO WZKAZYWANA WIADOMOŚĆ*** | administrator |
-| **%usunEmotke** *messageID* *emoji* | | usuwa przypisanie *emoji* z wiadomości wzkazanej przez *messageID* | administrator |  
+| **%usunEmotke** *messageID* *emoji* | | usuwa przypisanie *emoji* z wiadomości wzkazanej przez *messageID* . Poprawne wykonanie komendy skutkuje usunięciem reakcji. ***KOMENDA MUSI BYĆ WYWOŁANA NA TYM SAMYM KANALE CO WZKAZYWANA WIADOMOŚĆ*** | administrator |  
 
 
 [powrót](#role-za-reakcje-na-wiadomość)  
