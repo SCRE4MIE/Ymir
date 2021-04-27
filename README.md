@@ -76,7 +76,7 @@ Ymir potrafi nadać użytkownikowi wzkazaną rolę, która jest przepisana do re
 | **%usunEmotke** *messageID* *emoji* | | usuwa przypisanie *emoji* z wiadomości wzkazanej przez *messageID* . Poprawne wykonanie komendy skutkuje usunięciem reakcji. ***KOMENDA MUSI BYĆ WYWOŁANA NA TYM SAMYM KANALE CO WZKAZYWANA WIADOMOŚĆ*** | administrator |  
 
 
-[powrót](#role-za-reakcje-na-wiadomość)  
+[powrót](#spis-komend)  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
