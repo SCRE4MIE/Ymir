@@ -59,7 +59,7 @@
 
 Ymir potrafi nadać użytkownikowi wzkazaną rolę, która jest przepisana do reakcji na wiadomość. Aby to zrobić, musisz pierw przygotować wiadomość, ID tej wiadomośći oraz ID roli, jaka ma być przypisana do emoji(reakcji na wiadomość). Dodatkowo musisz ustawić rangę Ymir minimum powyżej roli, która będzie przypisana do reakcji na wiadomość. Rekomendowane jest umieszczenie Ymir najwyżej w hierarchi ról.  
 Kolejnym krokiem jest stworzenie własnej wiadomości, a następnie na tym samym kanale wywołanie komendy %dodajWiadomość, gdzie jako parametry wpisujesz dla przykładu:  
-%dodajWiadomosc 919804510 :D 91409112
+%dodajWiadomosc 919804510 :D 91409112  
 **Poprawyn wykonaniem komendy jest pojawienie się reakcji od Ymir pod wzkazaną wiadomością**  
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
