@@ -134,7 +134,9 @@ Ymir potrafi nadać użytkownikowi wzkazaną rolę, która jest przepisana do re
 | :--- | :----- |:--- | :--- |
 | **%decimalBIN** *liczba* | | zwraca zamienioną *liczbę* dziesiętna na binarną i pokazuje wizualizacje procesu liczenia| |
 | **%hexaBIN** *liczba* | | zwraca zamienioną liczbę hexadecymalną na binarną | |
-| **%ipBIN** *adres* | | zwraca adres w postaci binarnej. Dla przykładu: **%ipBIN** *192.168.2.1* | |  
+| **%ipBIN** *adres* | | zwraca adres w postaci binarnej. Dla przykładu: **%ipBIN** *192.168.2.1* | |
+| **%obliczAdresSieci** *adresIP* *maska* | | oblicza adres sieci, adres rozgłoszeniowy, długość maski, pierwszy i ostatni adres użyteczny oraz liczbę hostów i liczbę adresów ip dla podanego *adresIP* i *maska* | |
+| **%obliczMaskeSieci** *ilość_urządzeń* | | oblicza maskę oraz długość maski dla podanej ilości urządzeń ***UWAGA*** adreś sieci i adres rozgłoszeniowy jest wliczony do obliczeń więc podajesz tylko samą liczbę urządzeń | |  
 
 [powrót](#spis-komend)  
 
