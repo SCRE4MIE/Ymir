@@ -56,7 +56,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### Role za reakcje na wiadomość:  
+### Role za reakcje na wiadomość(Role reaction):  
 
 Ymir potrafi nadać użytkownikowi wzkazaną rolę, która jest przepisana do reakcji na wiadomość.
 **Poradnik jak ustawić funkcję** ***rola za reakcje***:  
