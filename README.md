@@ -48,6 +48,7 @@
 
 *Pamiętaj aby wywoływać komendy na tym samym kanale, gdzie stworzyłeś embed przy pomocy komendy* **%embed**  
 ***messageID*** odwołuje się do wiadomości embed stworzonej przez Ymir  
+***Możesz jedynie edytować wiadomości embed swojego autorstwa pomimimo wymogu permisji*** *menage_messages*
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
