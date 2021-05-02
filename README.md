@@ -65,8 +65,13 @@
 | **%embedAutorZdjUsun** *messageID* | | usuwa zdjęcie autora wiadomości embed | menage_messages |
 | **%embedAutorUsun** *messageID* | | usuwa autora wiadomości embed | menage_messages |
 | **%embedStopka** *messageID* *treść* | dodaje lub edytuje stopkę wiadomości embed | menage_messages |
-| **%embedStopka** *messageID* *url_adres* | | dodaje lub edytuje zdjęcie stopki wiadomości embed ( *tylko HTTP(S)* ) | menage_messages |
-
+| **%embedStopkaZdj** *messageID* *url_adres* | | dodaje lub edytuje zdjęcie stopki wiadomości embed ( *tylko HTTP(S)* ) | menage_messages |
+| **%embedStopkaZdjUsun** *messageID* | | usuwa zdjęcie stopki wiadomości embed | menage_messages |
+| **%embedStopkaUsun** *messageID* | | usuwa stopkę wiadomości embed | menage_messages |
+| **%embedZdj** *messageID* *url_adres* | | dodaje lub edytuje zdjęcie wiadomości embed ( *tylko HTTP(S)* ) | menage_messages |
+| **%embedZdjUsun** *messageID* | | usuwa zdjęcie wiadomości embed | mennage_messages |
+| **%embedMiniaturka* *messageID* *url_adres* | dodaje lub edytuje miniaturkę wiadomości embed ( *tylko HTTP(S)* ) | menage_messages |
+| **%embedMiniaturkaUsun* *messageID* | usuwa miniatrukę wiadomości embed | menage_messages |
 
 
 [powrót](#spis-komend)  
