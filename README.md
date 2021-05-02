@@ -42,7 +42,7 @@
 
 
 ### Embed Kreator:
-![](ymir_gif/Ymir_embed.png)
+![](ymir_gif/Ymir_embed2.png)
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
