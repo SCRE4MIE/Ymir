@@ -53,7 +53,7 @@
 | **%embed** | | towrzy wiadomość **embed**, na którą będziesz edytować | manage_messages |
 | **%embedTytul** *messageID* *tytuł* | | edytuje tytuł wiadomości embed | menage_messages |
 | **%embedTresc** *messageID* *treść* | | dodaje lub edytuje treść wiadomości embed | menage_messages |
-| **%embedTrescUsun** *messageID* | | usuwa treść w wiadomości embed | mennage_messages |
+| **%embedTrescUsun** *messageID* | | usuwa treść w wiadomości embed | menage_messages |
 | **%embedKolor** *messageID* *R* *G* *B* | | edytuje kolor wiadomości embed, przykład: **%embed 148140810 102 255 51** | menage_messages |
 | **%embedPole** *messageID* *true* *tytuł^^treść* | **%embedPole** *messageID* *false* *tytuł^^treść* | dodaje pole do wiadomości embed w lini jeżeli *true* lub nie jeżeli *false* ***UWAGA*** **^^** ***oddziela tutuł pola od treści*** przykład: **%embedPole 1941414 false jakiś tytuł ^^ jakaś treść** | menage_messages |
 | **%embedPoleUsun** *messageID* *indeks* | | usuwa pole o wzkazanym indeksie ***UWAGA*** **indeksuje się od 0** | menage_messages |
