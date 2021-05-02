@@ -44,12 +44,12 @@
 ### Embed Kreator:
 ![](ymir_gif/Ymir_embed2.png)
 
+*Pamiętaj aby wywoływać komendy na tym samym kanale, gdzie stworzyłeś embed przy pomocy komendy* **%embed**  
 ***messageID*** odwołuje się do wiadomości embed stworzonej przez Ymir  
-*Pamiętaj aby wywoływać komendy na tym samym kanale, gdzie stworzyłeś embed przy pomocy komendy* **%embed**
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
-| **%clear** | **%clear** *n* | usuwa 1 wiadomość \| *n* wiadomości (max 200)| manage_messages |  
+| **%embed** | | towrzy wiadomość **embed**, na którą będziesz edytować | manage_messages |  
 
 
 
