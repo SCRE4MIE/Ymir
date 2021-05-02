@@ -60,11 +60,11 @@
 | **%embedPolePrzed** *messageID* *true* *indeks* *tytuł^^treść* | **%embedPolePrzed** *messageID* *false* *indeks* *tytuł^^treść* | dodaje pole do wiadomości embed w lini jeżeli *true* lub nie jeżeli *false* przed wzkazanym indeksem innego pola ***UWAGA*** **^^** ***oddziela tutuł pola od treści*** przykład: **%embedPolePrzed 2852052 true 2 jakiś tytuł ^^ jakaś treść** | menage_messages |
 | **%embedUsunPola** *messageID* | | usuwa wszystkie pola z wiadomości embed | menage_messages |
 | **%embedAutor** *messageID* *@user* | | ustawia lub edytuje autora wiadomości embed i dodaje jego zdjęcie | menage_messages |
-| **%embedAutorNone** *messageID* *@user* | | ustawia lub edytuje autora wiadomości embed bez zdjęcia |
+| **%embedAutorNone** *messageID* *@user* | | ustawia lub edytuje autora wiadomości embed bez zdjęcia | menage_messages |
 | **%embedAutorZdj** *messageID* *@user* *url_adres* | | dodaje lub edytuje zdjęcie autora, które jest podane jako url( *tylko HTTP(S)* ) | menage_messages |
 | **%embedAutorZdjUsun** *messageID* | | usuwa zdjęcie autora wiadomości embed | menage_messages |
 | **%embedAutorUsun** *messageID* | | usuwa autora wiadomości embed | menage_messages |
-| **%embedStopka** *messageID* *treść* | dodaje lub edytuje stopkę wiadomości embed | menage_messages |
+| **%embedStopka** *messageID* *treść* | | dodaje lub edytuje stopkę wiadomości embed | menage_messages |
 | **%embedStopkaZdj** *messageID* *url_adres* | | dodaje lub edytuje zdjęcie stopki wiadomości embed ( *tylko HTTP(S)* ) | menage_messages |
 | **%embedStopkaZdjUsun** *messageID* | | usuwa zdjęcie stopki wiadomości embed | menage_messages |
 | **%embedStopkaUsun** *messageID* | | usuwa stopkę wiadomości embed | menage_messages |
