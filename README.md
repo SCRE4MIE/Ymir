@@ -64,7 +64,8 @@
 | **%embedAutorZdj** *messageID* *@user* *url_adres* | | dodaje lub edytuje zdjęcie autora, które jest podane jako url( *tylko HTTP(S)* ) | menage_messages |
 | **%embedAutorZdjUsun** *messageID* | | usuwa zdjęcie autora wiadomości embed | menage_messages |
 | **%embedAutorUsun** *messageID* | | usuwa autora wiadomości embed | menage_messages |
-
+| **%embedStopka** *messageID* *treść* | dodaje lub edytuje stopkę wiadomości embed | menage_messages |
+| **%embedStopka** *messageID* *url_adres* | | dodaje lub edytuje zdjęcie stopki wiadomości embed ( *tylko HTTP(S)* ) | menage_messages |
 
 
 
