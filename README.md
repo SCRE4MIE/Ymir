@@ -43,8 +43,8 @@
 
 
 ### Embed Kreator:
-![](ymir_gif/Ymir_embed2.png)
 ![](ymir_gif/embed_creator_PRZYKLAD.png)
+![](ymir_gif/Ymir_embed2.png)
 
 *Pamiętaj aby wywoływać komendy na tym samym kanale, gdzie stworzyłeś embed przy pomocy komendy* **%embed**  
 ***messageID*** odwołuje się do wiadomości embed stworzonej przez Ymir  
