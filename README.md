@@ -71,7 +71,7 @@
 | **%embedZdj** *messageID* *url_adres* | | dodaje lub edytuje zdjęcie wiadomości embed ( *tylko HTTP(S)* ) | menage_messages |
 | **%embedZdjUsun** *messageID* | | usuwa zdjęcie wiadomości embed | mennage_messages |
 | **%embedMiniaturka* *messageID* *url_adres* | | dodaje lub edytuje miniaturkę wiadomości embed ( *tylko HTTP(S)* ) | menage_messages |
-| **%embedMiniaturkaUsun* *messageID* | | usuwa miniatrukę wiadomości embed | menage_messages |
+| **%embedMiniaturkaUsun* *messageID* | | usuwa miniaturkę wiadomości embed | menage_messages |
 
 
 [powrót](#spis-komend)  
