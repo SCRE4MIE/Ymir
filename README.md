@@ -5,6 +5,7 @@
 
 ## Spis komend:  
 - [Komendy podstawowe](#komendy-podstawowe)
+- [Embed Kreator](#embed-kreator)
 - [Moderacja](#moderacja)
 - [Rola za reakcje (Role Reaction)](#role-za-reakcje-na-wiadomośćrole-reaction)
 - [Konfiguracja serwera](#konfiguracja-serwera)
