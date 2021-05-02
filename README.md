@@ -50,7 +50,9 @@
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
-| **%embed** | | towrzy wiadomość **embed**, na którą będziesz edytować | manage_messages |  
+| **%embed** | | towrzy wiadomość **embed**, na którą będziesz edytować | manage_messages |
+| **%embedTytul** *messageID* *tytuł* | | edytuje tytuł wiadomości embed | menage_messages |
+| **%embedTresc** *messageID* *treść* | | dodaje lub edytuje treść wiadomości embed | menage_messages |  
 
 
 
