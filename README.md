@@ -73,6 +73,7 @@
 | **%embedMiniaturka* *messageID* *url_adres* | | dodaje lub edytuje miniaturkę wiadomości embed ( *tylko HTTP(S)* ) | menage_messages |
 | **%embedMiniaturkaUsun* *messageID* | | usuwa miniaturkę wiadomości embed | menage_messages |
 
+**twórca bota nie ponosi odpowiedzialności za zamieszczane treści*  
 
 [powrót](#spis-komend)  
 
