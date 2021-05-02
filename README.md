@@ -46,10 +46,8 @@
 
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :--- |:--- | :--- |
-| **%clear** | **%clear** *n* | usuwa 1 wiadomość \| *n* wiadomości (max 200)| manage_messages |
-| **%clearAV** *limit* *@user* | | usuwa tylko wiadomości wzkazanego *@user*, ***UWAGA*** *limit* to ilość wiadomości jakie bot ma sprawdzić i usunie w nich wiadomości autora *@user* a nie ile wiadomości @user ma usunąć (max 200 do sprawdzenia) | manage_messages |
-| **%serverlogs** | **%serverlogs** *n* | wysyła w prywatnej wiadomości liczbę użytkowników oraz: 10 logów serwera \| *n* logów | administrator |
-| **%dc** *@user* | | usuwa użytkownika z kanału głosowego | administrator |  
+| **%clear** | **%clear** *n* | usuwa 1 wiadomość \| *n* wiadomości (max 200)| manage_messages |  
+
 
 
 [powrót](#spis-komend)  
