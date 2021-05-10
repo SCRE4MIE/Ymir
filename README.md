@@ -43,7 +43,7 @@
 
 
 ### Embed Kreator:
-![](ymir_gif/embed_creator_PRZYKLAD.png)
+![](ymir_gif/embed_creator_PRZYKLAD_NEW.png)
 ![](ymir_gif/Ymir_embedNEW.png)
 
 *Pamiętaj aby wywoływać komendy na tym samym kanale, gdzie stworzyłeś embed przy pomocy komendy* **%embed**  
