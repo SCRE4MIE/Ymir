@@ -1,4 +1,4 @@
-![](ymir_gif/Ymir_banner.gif)
+![](ymir_gif/Ymir_bannerNEW.gif)
 ### Twórca: ***SCREAMIE#9946***  
 [Zaproś Ymir na serwer](https://discord.com/oauth2/authorize?client_id=829256206170062888&permissions=8&scope=bot)
 -------------------------------------------------------------------------------------
@@ -44,7 +44,7 @@
 
 ### Embed Kreator:
 ![](ymir_gif/embed_creator_PRZYKLAD.png)
-![](ymir_gif/Ymir_embed2.png)
+![](ymir_gif/Ymir_embedNEW.png)
 
 *Pamiętaj aby wywoływać komendy na tym samym kanale, gdzie stworzyłeś embed przy pomocy komendy* **%embed**  
 ***messageID*** odwołuje się do wiadomości embed stworzonej przez Ymir  
