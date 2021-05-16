@@ -170,6 +170,7 @@ Ymir potrafi nadać użytkownikowi wzkazaną rolę, która jest przepisana do re
 | Komenda | Dodatkowe opcje | Opis | Wymagana permisja |
 | :--- | :----- |:--- | :--- |
 | **%decimalBIN** *liczba* | | zwraca zamienioną *liczbę* dziesiętna na binarną i pokazuje wizualizacje procesu liczenia| |
+| **%binDECIMAL** liczba_binarna* | | zwraca zamienioną *liczbę_binarną* na postać decymalną | |
 | **%hexaBIN** *liczba* | | zwraca zamienioną liczbę hexadecymalną na binarną | |
 | **%ipBIN** *adres* | | zwraca adres w postaci binarnej. Dla przykładu: **%ipBIN** *192.168.2.1* | |
 | **%obliczAdresSieci** *adresIP* *maska* | | oblicza adres sieci, adres rozgłoszeniowy, długość maski, pierwszy i ostatni adres użyteczny oraz liczbę hostów i liczbę adresów ip dla podanego *adresIP* i *maska* | |
