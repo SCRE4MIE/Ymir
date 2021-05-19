@@ -175,7 +175,8 @@ Ymir potrafi nadać użytkownikowi wzkazaną rolę, która jest przepisana do re
 | **%ipBIN** *adres* | | zwraca adres w postaci binarnej. Dla przykładu: **%ipBIN** *192.168.2.1* | |
 | **%obliczAdresSieci** *adresIP* *maska* | | oblicza adres sieci, adres rozgłoszeniowy, długość maski, pierwszy i ostatni adres użyteczny oraz liczbę hostów i liczbę adresów ip dla podanego *adresIP* i *maska* | |
 | **%obliczMaskeSieci** *ilość_urządzeń* | | oblicza maskę oraz długość maski dla podanej ilości urządzeń ***UWAGA*** adreś sieci i adres rozgłoszeniowy jest wliczony do obliczeń więc podajesz tylko samą liczbę urządzeń | |
-| **%czyNalezyIP** *ip_sieci*  *maska_sieci* *adres_ip_sprawdzany* | | sprawdza czy dany adres IP należy do adresu sieci **przykład użycia:** *%czyNalezyIP 100.192.0.0 255.240.0.0 100.207.255.255* | |  
+| **%czyNalezyIP** *ip_sieci*  *maska_sieci* *adres_ip_sprawdzany* | | sprawdza czy dany adres IP należy do adresu sieci **przykład użycia:** *%czyNalezyIP 100.192.0.0 255.240.0.0 100.207.255.255* | |
+| **%adresSieciDlaHostow** *adres_IP* *liczba_hostów* | | oblicza maskę i najniejszą sieć spełniające warunek dla liczby hostów | |  
 
 [powrót](#spis-komend)  
 
